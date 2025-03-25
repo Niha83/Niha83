@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Niha83
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning DSA and ML and DL
-- 📫 How to reach me nihanasir83@gmail.com
+- 👀 I’m interested in Medical Image and Data Processing
+- 🌱 I’m currently pursuing Masters in Medical Engineering - Medical Image and Data Processing at FAU Erlangen
+- 📫 How to reach me nihanasir08@gmail.com
 
